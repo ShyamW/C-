@@ -1,0 +1,11 @@
+C:\Users\Ice\Desktop\BindingTest\bin\Debug\BindingTest.exe.config
+C:\Users\Ice\Desktop\BindingTest\bin\Debug\BindingTest.exe
+C:\Users\Ice\Desktop\BindingTest\bin\Debug\BindingTest.pdb
+C:\Users\Ice\Desktop\BindingTest\obj\Debug\BindingTest.Form1.resources
+C:\Users\Ice\Desktop\BindingTest\obj\Debug\BindingTest.Form2.resources
+C:\Users\Ice\Desktop\BindingTest\obj\Debug\BindingTest.Properties.Resources.resources
+C:\Users\Ice\Desktop\BindingTest\obj\Debug\BindingTest.csproj.GenerateResource.cache
+C:\Users\Ice\Desktop\BindingTest\obj\Debug\BindingTest.csproj.CoreCompileInputs.cache
+C:\Users\Ice\Desktop\BindingTest\obj\Debug\BindingTest.exe
+C:\Users\Ice\Desktop\BindingTest\obj\Debug\BindingTest.pdb
+C:\Users\Ice\Desktop\BindingTest\obj\Debug\BindingTest.csprojResolveAssemblyReference.cache
