@@ -1,0 +1,10 @@
+C:\Code\C-\BindingTest\bin\Debug\BindingTest.exe.config
+C:\Code\C-\BindingTest\bin\Debug\BindingTest.exe
+C:\Code\C-\BindingTest\bin\Debug\BindingTest.pdb
+C:\Code\C-\BindingTest\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Code\C-\BindingTest\obj\Debug\BindingTest.Plane.resources
+C:\Code\C-\BindingTest\obj\Debug\BindingTest.Properties.Resources.resources
+C:\Code\C-\BindingTest\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Code\C-\BindingTest\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Code\C-\BindingTest\obj\Debug\BindingTest.exe
+C:\Code\C-\BindingTest\obj\Debug\BindingTest.pdb
