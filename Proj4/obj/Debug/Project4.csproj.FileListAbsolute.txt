@@ -8,3 +8,10 @@ C:\Code\C-\BindingTest\obj\Debug\Project4.csproj.GenerateResource.cache
 C:\Code\C-\BindingTest\obj\Debug\Project4.csproj.CoreCompileInputs.cache
 C:\Code\C-\BindingTest\obj\Debug\BindingTest.exe
 C:\Code\C-\BindingTest\obj\Debug\BindingTest.pdb
+C:\Code\C-\Proj4\bin\Debug\BindingTest.exe
+C:\Code\C-\Proj4\bin\Debug\BindingTest.pdb
+C:\Code\C-\Proj4\obj\Debug\BindingTest.Plane.resources
+C:\Code\C-\Proj4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Code\C-\Proj4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Code\C-\Proj4\obj\Debug\BindingTest.exe
+C:\Code\C-\Proj4\obj\Debug\BindingTest.pdb
