@@ -1,0 +1,25 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFBattle"
+        xmlns:RoleplayingGameInterfaces="clr-namespace:Thiagarajan.RoleplayingGameInterfaces" x:Class="WPFBattle.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="463*"/>
+            <ColumnDefinition Width="55*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="assets\cave.jpg"/>
+        </Grid.Background>
+        <Image Source="assets\console.png" Margin="240,10,28,192.5" Grid.ColumnSpan="2"/>
+        <TextBox VerticalScrollBarVisibility="Auto" x:Name="console" FontSize="7" Foreground="Black" Margin="273,20,10,192.5"/>
+        <RoleplayingGameInterfaces:CharacterImage x:Name="Riku" HorizontalAlignment="Left" Height="100" Margin="10,183,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.552,0.513" DeadImageSource="assets/Riku_dead.png" AttackingImageSource="assets/Riku_attack.png" IdleImageSource="assets/Riku_idle.png" TakeDamageImageSource="assets/Riku_hurt.png" Source="assets/Riku_idle.png"/>
+        <RoleplayingGameInterfaces:CharacterImage x:Name="Vexen" HorizontalAlignment="Left" Height="100" Margin="158,183,0,0" VerticalAlignment="Top" Width="110" RenderTransformOrigin="0.552,0.513" DeadImageSource="assets/Vexen_dead.png" AttackingImageSource="assets/Vexen_attack.png" IdleImageSource="assets/Vexen_idle.png" TakeDamageImageSource="assets/Vexen_hurt.png" Source="assets/Vexen_idle.png"/>
+        <RoleplayingGameInterfaces:CharacterImage x:Name="Flare" HorizontalAlignment="Left" Height="100" Margin="29,30,0,0" VerticalAlignment="Top" Width="100" AttackingImageSource="assets/Flare_attack.png" DeadImageSource="assets/Flare_dead.png" Source="assets/Flare_idle.png" TakeDamageImageSource="assets/Flare_hurt.png" />
+        <RoleplayingGameInterfaces:CharacterImage x:Name="Xenmas" HorizontalAlignment="Left" Height="100" Margin="168,30,0,0" VerticalAlignment="Top" Width="100" TakeDamageImageSource="assets/Xenmas_hurt.png" Source="assets/Xenmas_idle.png" State="Idle" IdleImageSource="assets/Xenmas_idle.png" DeadImageSource="assets/Xenmas_dead.png" />
+    </Grid>
+</Window>

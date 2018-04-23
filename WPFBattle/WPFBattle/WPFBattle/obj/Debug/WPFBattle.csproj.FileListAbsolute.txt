@@ -1,0 +1,47 @@
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\bin\Debug\WPFBattle.exe.config
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\bin\Debug\WPFBattle.exe
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\bin\Debug\WPFBattle.pdb
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\MainWindow.g.cs
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\App.g.cs
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\WPFBattle_MarkupCompile.cache
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\WPFBattle_MarkupCompile.lref
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\MainWindow.baml
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\WPFBattle.g.resources
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\WPFBattle.Properties.Resources.resources
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\WPFBattle.csproj.GenerateResource.Cache
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\WPFBattle.csproj.CoreCompileInputs.cache
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\WPFBattle.exe
+c:\users\m. porter\source\repos\WPFBattle\WPFBattle\obj\Debug\WPFBattle.pdb
+C:\Users\M. Porter\source\repos\WPFBattle\WPFBattle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\bin\Debug\WPFBattle.exe.config
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\bin\Debug\WPFBattle.exe
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\bin\Debug\WPFBattle.pdb
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.csprojResolveAssemblyReference.cache
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\MainWindow.g.cs
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\App.g.cs
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle_MarkupCompile.cache
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle_MarkupCompile.lref
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\MainWindow.baml
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.g.resources
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.Properties.Resources.resources
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.csproj.GenerateResource.cache
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.csproj.CoreCompileInputs.cache
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.exe
+C:\Users\codysutherland\Desktop\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.pdb
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\bin\Debug\WPFBattle.exe.config
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\bin\Debug\WPFBattle.exe
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\bin\Debug\WPFBattle.pdb
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\MainWindow.g.cs
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\App.g.cs
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle_MarkupCompile.cache
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle_MarkupCompile.lref
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\MainWindow.baml
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.g.resources
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.Properties.Resources.resources
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.csproj.GenerateResource.cache
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.csproj.CoreCompileInputs.cache
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.exe
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.pdb
+C:\Code\C-\WPFBattle\WPFBattle\WPFBattle\obj\Debug\WPFBattle.csprojResolveAssemblyReference.cache
